@@ -1,8 +1,7 @@
 # My Portfolio
-This is my personal portfolio website.
+This website is made by Areeba Tahir.
 
-I am Areeba Tahir, a Bioinformatics student learning web development.
-
+I am a Bioinformatics student, trying to develope a website.
 Files:
 - index.html - Main portfolio page
 - style.css - Styling for portfolio
