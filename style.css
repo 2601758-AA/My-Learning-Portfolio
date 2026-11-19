@@ -1,0 +1,22 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial;
+    text-align: center;
+    margin: 40px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: #333333;
+}
+
+p {
+    color: #555555;
+}
+
+ul {
+    list-style: none;
+}
